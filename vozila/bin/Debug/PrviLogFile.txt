@@ -1,0 +1,81 @@
+2018-09-15 11:57:24.9189|ERROR|vozila.Program|1|upisan je nebroj|System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at vozila.Program.CourseOfAction(String question) in C:\Users\stropcic\source\repos\vozila\vozila\Program.cs:line 120
+2018-09-15 12:06:04.8579|ERROR|vozila.Program|1|upisan je nebroj|System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at vozila.Program.CourseOfAction(String question) in C:\Users\stropcic\source\repos\vozila\vozila\Program.cs:line 120
+2018-09-15 12:10:33.6528|ERROR|databaseLogger|1|upisan je nebroj|System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at vozila.Program.CourseOfAction(String question) in C:\Users\stropcic\source\repos\vozila\vozila\Program.cs:line 120
+2018-09-15 12:11:26.6306|ERROR|databaseLogger|1|upisan je nebroj|System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at vozila.Program.CourseOfAction(String question) in C:\Users\stropcic\source\repos\vozila\vozila\Program.cs:line 120
+2018-09-15 12:13:23.6041|ERROR|databaseLogger|1|upisan je nebroj|System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at vozila.Program.CourseOfAction(String question) in C:\Users\stropcic\source\repos\vozila\vozila\Program.cs:line 120
+2018-09-15 12:15:07.1982|ERROR|databaseLogger|1|upisan je nebroj|System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at vozila.Program.CourseOfAction(String question) in C:\Users\stropcic\source\repos\vozila\vozila\Program.cs:line 120
+2018-09-15 12:15:52.3007|ERROR|databaseLogger|1|upisan je nebroj|System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at vozila.Program.CourseOfAction(String question) in C:\Users\stropcic\source\repos\vozila\vozila\Program.cs:line 120
+2018-09-15 12:16:39.3076|ERROR|databaseLogger|1|upisan je nebroj|System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at vozila.Program.CourseOfAction(String question) in C:\Users\stropcic\source\repos\vozila\vozila\Program.cs:line 120
+2018-09-15 12:18:01.3226|INFO|databaseLogger|1|dodana osoba|
+2018-09-15 12:21:16.6201|ERROR|databaseLogger|1|upisan je nebroj|System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at vozila.Program.CourseOfAction(String question) in C:\Users\stropcic\source\repos\vozila\vozila\Program.cs:line 120
+2018-09-15 12:27:02.3803|ERROR|databaseLogger|1|upisan je nebroj|System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at vozila.Program.CourseOfAction(String question) in C:\Users\stropcic\source\repos\vozila\vozila\Program.cs:line 120
+2018-09-15 12:27:14.8009|ERROR|databaseLogger|1|upisan je nebroj|System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at vozila.Program.CourseOfAction(String question) in C:\Users\stropcic\source\repos\vozila\vozila\Program.cs:line 120
+2018-09-15 12:27:17.2194|ERROR|databaseLogger|1|upisan je nebroj|System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at vozila.Program.CourseOfAction(String question) in C:\Users\stropcic\source\repos\vozila\vozila\Program.cs:line 120
+2018-09-15 12:27:58.0842|ERROR|databaseLogger|1|upisan je nebroj|System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at vozila.Program.CourseOfAction(String question) in C:\Users\stropcic\source\repos\vozila\vozila\Program.cs:line 120
+2018-09-15 12:29:06.2283|ERROR|databaseLogger|1|upisan je nebroj|System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at vozila.Program.CourseOfAction(String question) in C:\Users\stropcic\source\repos\vozila\vozila\Program.cs:line 120
+2018-09-15 12:29:18.0196|ERROR|databaseLogger|1|upisan je nebroj|System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at vozila.Program.CourseOfAction(String question) in C:\Users\stropcic\source\repos\vozila\vozila\Program.cs:line 120
+2018-09-17 09:09:42.7098|ERROR|databaseLogger|1|upisan je nebroj|System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at vozila.Program.CourseOfAction(String question) in C:\Users\stropcic\source\repos\vozila\vozila\Program.cs:line 120

@@ -1,0 +1,11 @@
+C:\Users\stropcic\source\repos\vozila\vozila\bin\Debug\NLog.config
+C:\Users\stropcic\source\repos\vozila\vozila\bin\Debug\vozila.exe.config
+C:\Users\stropcic\source\repos\vozila\vozila\bin\Debug\vozila.exe
+C:\Users\stropcic\source\repos\vozila\vozila\bin\Debug\vozila.pdb
+C:\Users\stropcic\source\repos\vozila\vozila\bin\Debug\NLog.dll
+C:\Users\stropcic\source\repos\vozila\vozila\bin\Debug\NLog.xml
+C:\Users\stropcic\source\repos\vozila\vozila\obj\Debug\vozila.csprojAssemblyReference.cache
+C:\Users\stropcic\source\repos\vozila\vozila\obj\Debug\vozila.csproj.CoreCompileInputs.cache
+C:\Users\stropcic\source\repos\vozila\vozila\obj\Debug\vozila.csproj.CopyComplete
+C:\Users\stropcic\source\repos\vozila\vozila\obj\Debug\vozila.exe
+C:\Users\stropcic\source\repos\vozila\vozila\obj\Debug\vozila.pdb
